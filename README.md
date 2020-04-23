@@ -15,7 +15,7 @@ Please note that LX Studio is not open-source software. The license grants permi
 
 LX Studio uses the [Processing](https://processing.org/download/) framework. There are two ways of working with LX Studio.
 
-* [LXStudio-IDE](https://github.com/heronarts/LXStudio-IDE) &mdash; Work in a complete Java IDE (recommended!)
+* [LXStudio-IDE](https://github.com/heronarts/LXStudio-IDE) &mdash; Work in a complete Java IDE *(recommended!)*
 * [LXStudio-P3](https://github.com/heronarts/LXStudio-P3) &mdash; Work in the Processing applet IDE
 
 Consult the [LX Studio API reference &rarr;](http://lx.studio/api/)
