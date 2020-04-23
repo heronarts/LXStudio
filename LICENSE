@@ -1,0 +1,152 @@
+Copyright 2013-2020 Mark C. Slee, Heron Arts LLC
+
+LX STUDIO SOFTWARE LICENSE AND DISTRIBUTION AGREEMENT
+
+This Software License and Distribution Agreement (the "Agreement") is entered 
+into by and between Heron Arts LLC, with offices at 7 Heron Street, San 
+Francisco, CA 94103 ("Heron Arts") and you ("Licensee"). By downloading or
+using the Software (as defined below), you agree to the following terms:
+
+1. Definitions.
+
+1.1. "Application" means a Licensee installation or project that includes the 
+Software, in object code or executable form only.
+
+1.2. "Effective Date" means the date you first obtain a copy of the Software.
+
+1.3. "Revenue Limit" means the gross revenue accrued by Licensee in connection 
+with all Licensee Applications, taken together, for any 12-month period during 
+the term of this Agreement, with no deductions.
+
+1.4. "Software" means the Heron Arts LX software libraries, including all 
+Updates supplied by Heron Arts under this Agreement.
+
+1.5. "Update" means any correction, update, upgrade, patch or other 
+modification or addition to the Software made available to Licensee by Heron 
+Arts.
+
+2. License.
+
+2.1. Grant. Subject to the limitations of this Section 2, Heron Arts hereby 
+grants to Licensee a nonexclusive, worldwide, non-transferable, 
+non-sublicenseable license, during the term of this Agreement: (i) to modify 
+the Software to create Applications that add substantial value to the Software; 
+(ii) to distribute copies of the Software, in object code form only, only as 
+part of Applications in accordance with this Section 2; (iii) to use the 
+Software to run Applications, including to provide a service consisting of 
+display of the Applications; and (iv) to reproduce copies of the Software, 
+solely as necessary to exercise the rights granted in clauses (i) through (iv). 
+Licensee may not sublicense any of these rights or licenses to any third party. 
+Licensee shall not provide any third party with access to the source code for 
+the Software without Heron Arts' prior written permission.
+
+The license granted in this Section 2.1 is subject to a Revenue Limit of 
+$25,000 and is only valid for Applications that fall within such Revenue Limit. 
+The license granted herein is royalty free, in consideration of the Revenue 
+Limit being a condition of the license granted herein.
+
+2.2. End User Licensing. If the Application is distributed, provided or sold 
+pursuant to an agreement between Licensee and an end user, Licensee shall 
+distribute each copy of the Software with an end user license agreement on the 
+same licensing terms applicable to the remainder of the Application, but that 
+is at least as favorable to Heron Arts as this Agreement.
+
+2.3. Proprietary Notices. On each Software copy, Licensee shall reproduce all 
+copyright or other proprietary notices contained on the Software, as provided 
+by Heron Arts. Licensee shall not alter or remove or in any other way obscure 
+or hide from display any Heron Arts or LX Studio logo or proprietary notice 
+from the Application user interface or in the Software.
+
+2.4. Third Party Open Source Software. Notwithstanding Section 2.1, Licensee 
+acknowledges that certain components of the Software may be covered by 
+so-called "open source" software licenses ("Open Source Components"), which 
+means any software licenses approved as open source licenses by the Open Source 
+Initiative or any substantially similar licenses. To the extent required by the 
+licenses covering Open Source Components, the terms of such licenses will apply 
+to such Open Source Components in lieu of the terms of this Agreement. To the 
+extent the terms of the licenses applicable to Open Source Components prohibit 
+any of the restrictions in this Agreement with respect to such Open Source 
+Component, such restrictions will not apply to such Open Source Component. To 
+the extent the terms of the licenses applicable to Open Source Components 
+require Licensor to make an offer to provide source code or related information 
+in connection with the Open Source Components, such offer is hereby made.
+
+3. Ownership. As between the parties, Heron Arts will retain all right, title, 
+and interest in the Software, and all intellectual property rights therein.
+
+4. Use of Heron Arts Trademarks. Licensee shall state that the Application 
+includes the Software and may use such applicable trademarks, trade names and
+logos of Heron Arts (including the LX Studio trademarks) as required to do so
+(collectively, the "Heron Arts Trademarks"). Any and all good will arising from
+Licensee's use of the Heron Arts Trademarks will inure solely to the benefit of
+Heron Arts. Licensee shall not assert any claim to the Heron Arts Trademarks
+(or any confusingly similar mark) or such good will. Licensee shall not
+register any Heron Arts Trademark, or any mark confusingly similar to any Heron
+Arts Trademark, in any jurisdiction.
+
+5. Heron Arts Portfolio. (i) Licensee hereby grants to Heron Arts the right to
+publicize Licensee's use of the Software and (ii) Heron Arts may use Licensee's
+logo on the LX Studio website in areas naming licensees of the software, and in
+LX Studio portfolios or marketing presentations listing licensees of the
+Software.
+
+6. Term and Termination.
+
+6.1. Term. This Agreement will commence on the Effective Date and continue 
+unless and until terminated as described herein.
+
+6.2. Default. If Licensee defaults in the performance of any of its material 
+obligations hereunder this Agreement and the licenses granted herein will 
+automatically terminate.
+
+6.3. Insolvency. This Agreement and the licenses granted herein will 
+automatically terminate, (i) upon the institution by Licensee of insolvency, 
+receivership or bankruptcy proceedings or any other proceedings for the 
+settlement of its debts, (ii) upon the institution of such proceedings against 
+Licensee, which are not dismissed or otherwise resolved in its favor within 60 
+days thereafter, (iii) upon Licensee making a general assignment for the 
+benefit of creditors, or (iv) upon Licensee's dissolution or ceasing to conduct 
+business in the ordinary course.
+
+6.4. Survival. The parties' rights and obligations of Sections 1, 3, 4, 5, 6.4, 
+7, 8 and 9 will survive any termination or expiration of this Agreement. Upon 
+expiration or termination of this Agreement, all of Licensee's rights and 
+licenses with respect to the Software will terminate, except each Software end 
+user license properly granted as part of an Application before the effective 
+date of termination will survive in accordance with its terms.
+
+7. Warranty Disclaimer.
+
+7.1. DISCLAIMER. HERON ARTS MAKES NO WARRANTY, EXPRESS, IMPLIED, STATUTORY, OR 
+OTHERWISE, AND SPECIFICALLY DISCLAIMS ANY WARRANTY OF MERCHANTABILITY, 
+NON-INFRINGEMENT, OR FITNESS FOR A PARTICULAR PURPOSE, WITH RESPECT TO THE 
+SOFTWARE.
+
+8. LIMITATION OF LIABILITY. HERON ARTS'S LIABILITY ARISING OUT OF THIS 
+AGREEMENT WILL NOT EXCEED $50. HERON ARTS WILL NOT BE LIABLE FOR LOST PROFITS 
+OR ANY CONSEQUENTIAL, SPECIAL, INCIDENTAL, OR INDIRECT DAMAGES, HOWEVER CAUSED 
+AND ON ANY THEORY OF LIABILITY, ARISING OUT OF THIS AGREEMENT. LICENSEE 
+ACKNOWLEDGES THAT THE ROYALTY-FREE NATURE OF THE LICENSE HEREIN IS BASED IN 
+PART UPON THESE LIMITATIONS, AND THAT THESE LIMITATIONS WILL APPLY 
+NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.
+
+9. General. This Agreement is the entire agreement between the parties on the 
+subject matter hereof. No amendment or modification hereof will be valid or 
+binding upon the parties unless made in writing and signed by the duly 
+authorized representatives of both parties. The relationship of the parties 
+hereunder is that of independent contractors, and this Agreement will not be 
+construed to imply that either party is the agent, employee, or joint venturer 
+of the other. In the event that any provision of this Agreement is held to be 
+unenforceable, this Agreement will continue in full force and effect and will 
+be interpreted to reflect the original intent of the parties. This Agreement 
+will be governed by the laws of the State of California, without regard to its 
+conflict of laws principles. The parties consent to the personal and exclusive 
+jurisdiction of courts located in San Francisco, California. Licensee may not 
+assign this Agreement (by operation of law or otherwise) without the prior 
+written consent of Heron Arts, and any prohibited assignment will be null and 
+void. Heron Arts may assign this Agreement without consent in its sole 
+discretion. This Agreement will be binding upon and will inure to the benefit 
+of the parties permitted successors and assignees. Waiver by either party of a 
+breach of any provision of this Agreement or the failure by either party to 
+exercise any right hereunder will not operate or be construed as a waiver of 
+any subsequent breach of that right or as a waiver of any other right.
