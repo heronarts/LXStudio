@@ -18,6 +18,8 @@ LX Studio uses the [Processing](https://processing.org/download/) framework. The
 * [LXStudio-IDE](https://github.com/heronarts/LXStudio-IDE) &mdash; Work in a complete Java IDE *(recommended!)*
 * [LXStudio-P3](https://github.com/heronarts/LXStudio-P3) &mdash; Work in the Processing applet IDE
 
+Documentation is available on the [LX Studio Wiki &rarr;](https://github.com/heronarts/LXStudio/wiki)
+
 Consult the [LX Studio API reference &rarr;](http://lx.studio/api/)
 
 ### Contact and Collaboration ###
