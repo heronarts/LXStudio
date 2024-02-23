@@ -1,5 +1,9 @@
-LX Studio
-==
+END OF LIFECYCLE NOTICE
+===
+
+LX Studio has been superceded by the [Chromatik](https://chromatik.co/) Digital Lighting Workstation, which uses the same underlying [LX](https://github.com/heronarts/LX) libraries with a new, modern UI layer. [Chromatik](https://chromatik.co/) continues in the tradition of LX Studio as an open and extensible framework for custom development. It is available for macOS, Windows, and Linux. More information can be found on the website.
+
+---
 
 **BY DOWNLOADING OR USING THE LX STUDIO SOFTWARE OR ANY PART THEREOF, YOU AGREE TO THE TERMS AND CONDITIONS OF THE [LX STUDIO SOFTWARE LICENSE AND DISTRIBUTION AGREEMENT](http://lx.studio/license).**
 
